@@ -39,8 +39,8 @@ This project is a dynamic and interactive calendar web application designed to h
 ## File Structure
 
 * `index.html`: The main HTML file for the calendar application.
-* `calendarStyles.css`: The CSS file containing the styles for the calendar.
-* `calendarScript.js`: The JavaScript file containing the calendar's functionality.
+* `styles.css`: The CSS file containing the styles for the calendar.
+* `script.js`: The JavaScript file containing the calendar's functionality.
 
 ## Usage
 
