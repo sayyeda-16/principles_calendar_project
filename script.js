@@ -350,7 +350,7 @@ function convertTimeToMinutes(time) {
             hours = 0; // Convert 12 AM to 0
         }
     } else {
-        // Handle 24-hour format (if you still need it)
+        // Handle 24-hour format
         const timeArr = time.split(":");
         hours = parseInt(timeArr[0]);
         minutes = parseInt(timeArr[1]);
